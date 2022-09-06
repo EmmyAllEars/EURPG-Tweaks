@@ -1,0 +1,20 @@
+{
+    "replace": false,
+    "values": [
+        "croptopia:anchovy",
+        "croptopia:calamari",
+        "croptopia:glowing_calamari",
+        "croptopia:clam",
+        "croptopia:crab",
+        "croptopia:oyster",
+        "croptopia:roe",
+        "croptopia:shrimp",
+        "croptopia:tuna",
+        "croptopia:cooked_shrimp",
+        "croptopia:cooked_anchovies",
+        "croptopia:cooked_calamari",
+        "croptopia:fried_calamari",
+        "croptopia:cooked_tuna",
+        "croptopia:crab_legs"
+    ]
+  }

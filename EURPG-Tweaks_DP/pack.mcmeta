@@ -1,0 +1,11 @@
+{
+    "pack": {
+        "name": "EURPG Tweaks",
+        "id": "eurpg",
+        "pack_format": 10,
+        "authors": [
+            "EmmyAllEars"
+        ],
+        "description": ""
+    }
+}
